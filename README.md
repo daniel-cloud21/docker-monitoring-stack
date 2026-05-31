@@ -13,7 +13,7 @@ Stack de monitoramento estruturada com Docker, Prometheus e Grafana para coleta 
 1. Certifique-se de ter o **Docker** e o **Docker Compose** instalados na sua máquina.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com
+   https://github.com/daniel-cloud21/docker-monitoring-stack.git
    ```
 3. Acesse a pasta do projeto:
    ```bash
